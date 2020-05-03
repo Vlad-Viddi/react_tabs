@@ -1,0 +1,2 @@
+.buttons{display:flex;flex-direction:row}.btn{display:inline-block;width:50px;box-sizing:border-box;height:20px;background-color:#eee;outline:none}.btn--selected{background-color:#fff;border:1px solid #000}.table{justify-content:center;align-items:center}.table,.table__content{display:flex;flex-direction:column}
+/*# sourceMappingURL=main.8ada902b.chunk.css.map */
